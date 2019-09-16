@@ -4,6 +4,7 @@
 #### If you don't know how to, google it.
 - Python 3
 - https://pypi.org/project/pynput/
+- Clone this repository
 ### How to use:
 - First you have open the website https://10fastfingers.com/.
 - Then you right click the box and choose Inspect.
